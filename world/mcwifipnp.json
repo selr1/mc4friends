@@ -1,0 +1,15 @@
+{
+  "port": 44609,
+  "allow-host-cheat": false,
+  "max-players": 8,
+  "gamemode": "survival",
+  "motd": "ycc - PUASA26",
+  "allow-everyone-cheat": false,
+  "enforce-whitelist": false,
+  "enable-upnp": true,
+  "online-mode": false,
+  "enable-uuid-fixer": false,
+  "pvp": true,
+  "get-public-ip": true,
+  "remove-player-reporting": false
+}

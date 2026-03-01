@@ -1,0 +1,23 @@
+{
+  "pingThresholds": {
+    "excellent": {
+      "max": 50
+    },
+    "good": {
+      "min": 51,
+      "max": 100
+    },
+    "fair": {
+      "min": 101,
+      "max": 200
+    },
+    "poor": {
+      "min": 201,
+      "max": 300
+    },
+    "terrible": {
+      "min": 301
+    }
+  },
+  "showPingOnTab": true
+}

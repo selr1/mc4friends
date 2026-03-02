@@ -1,0 +1,15 @@
+#Port number for the file server to run on
+#Default: 25566
+fileServerPort = 25566
+#If true, the client will also update the config folder when pressing the update button.
+#This downloads config.zip from the server and extracts it into /config.
+#Default: true
+updateConfig = true
+#If true, the client mods folder will be mirrored to mods.zip.
+#Any mod jar not present in mods.zip will be removed during update.
+#Default: false
+mirrorMods = false
+#If true, the client config folder will be mirrored to config.zip.
+#Any config file not present in config.zip will be removed during update.
+#Default: false
+mirrorConfig = false

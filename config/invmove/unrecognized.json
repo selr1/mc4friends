@@ -1,0 +1,35 @@
+{
+  "allowMovement": {
+    "net.minecraft.client.gui.screens.PauseScreen": true,
+    "net.minecraft.client.gui.screens.options.OptionsScreen": true,
+    "org.embeddedt.embeddium.impl.gui.EmbeddiumVideoOptionsScreen": true,
+    "io.github.satxm.mcwifipnp.client.ShareToLanScreenNew": true,
+    "net.irisshaders.iris.gui.screen.ShaderPackScreen": true,
+    "net.minecraft.client.gui.screens.options.SoundOptionsScreen": true,
+    "net.minecraft.client.gui.screens.packs.PackSelectionScreen": true,
+    "net.neoforged.neoforge.client.gui.ModListScreen": true,
+    "net.minecraft.client.gui.screens.social.SocialInteractionsScreen": true,
+    "net.minecraft.client.gui.screens.options.controls.ControlsScreen": true,
+    "net.minecraft.client.gui.screens.options.MouseSettingsScreen": true,
+    "net.minecraft.client.gui.screens.options.controls.KeyBindsScreen": true,
+    "com.github.alexthe666.alexsmobs.client.gui.GUIAnimalDictionary": true,
+    "xaero.common.gui.GuiWaypoints": true,
+    "xaero.common.gui.GuiWaypointsOptions": true,
+    "xaero.common.gui.GuiTransfer": true,
+    "xaero.common.gui.GuiWorldTpCommand": true,
+    "xaero.common.gui.GuiAddWaypoint": true,
+    "net.minecraft.client.gui.screens.ConfirmScreen": true,
+    "xaero.common.gui.GuiMinimapMain": true,
+    "xaero.common.gui.GuiEditMode": true,
+    "xaero.common.gui.GuiWaypointSettings": true,
+    "xaero.common.gui.GuiMinimapMiscSettings": true,
+    "xaero.common.gui.GuiMinimapBlockMapSettings": true,
+    "xaero.common.gui.GuiMinimapInfoSettings": true,
+    "xaero.common.gui.GuiMinimapViewSettings": true,
+    "com.tiviacz.travelersbackpack.client.screens.BackpackScreen": true
+  },
+  "hideBackground": {
+    "net.minecraft.client.gui.screens.social.SocialInteractionsScreen": true,
+    "com.tiviacz.travelersbackpack.client.screens.BackpackScreen": true
+  }
+}
